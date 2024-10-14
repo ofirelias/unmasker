@@ -1,3 +1,5 @@
 __pycache__
 .idea/
 .DS_Store
+**/.ipynb_checkpoints/
+mask_detection_from_kaggle/input/
