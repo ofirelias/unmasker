@@ -17,6 +17,15 @@
   * [https://www.kaggle.com/code/datark1/eda-images-processing-and-exploration](https://www.kaggle.com/code/datark1/eda-images-processing-and-exploration)  
   * [https://medium.com/geekculture/eda-for-image-classification-dcada9f2567a](https://medium.com/geekculture/eda-for-image-classification-dcada9f2567a)  
   * [https://www.omdena.com/blog/a-guide-to-using-eda-for-vehicle-image-analysis-and-insurance-fraud-prevention](https://www.omdena.com/blog/a-guide-to-using-eda-for-vehicle-image-analysis-and-insurance-fraud-prevention)   
+* Similar projects  
+  * [https://link.springer.com/article/10.1007/s11760-023-02602-2](https://link.springer.com/article/10.1007/s11760-023-02602-2)  
+  * [https://link.springer.com/article/10.1007/s00371-023-03125-0?fromPaywallRec=false](https://link.springer.com/article/10.1007/s00371-023-03125-0?fromPaywallRec=false)  
+  * [https://link.springer.com/chapter/10.1007/978-3-031-06381-7\_19?fromPaywallRec=true](https://link.springer.com/chapter/10.1007/978-3-031-06381-7_19?fromPaywallRec=true)  
+* More links  
+  * [https://www.kaggle.com/datasets/ducbvh/mfr2-data/data](https://www.kaggle.com/datasets/ducbvh/mfr2-data/data)  
+  * [https://medium.com/sk-geek/glasses-removal-by-deep-learning-dfa83f02ab86](https://medium.com/sk-geek/glasses-removal-by-deep-learning-dfa83f02ab86)  
+  * [https://github.com/aqeelanwar/MaskTheFace](https://github.com/aqeelanwar/MaskTheFace)  
+  * [https://www.kaggle.com/datasets/vishesh1412/celebrity-face-image-dataset](https://www.kaggle.com/datasets/vishesh1412/celebrity-face-image-dataset)
   
 
 ### Design
