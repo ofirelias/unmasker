@@ -1,0 +1,3 @@
+[submodule "MaskTheFace"]
+	path = MaskTheFace
+	url = git@github.com:aqeelanwar/MaskTheFace.git
