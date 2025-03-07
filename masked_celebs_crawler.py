@@ -1,4 +1,5 @@
 import os
+import uuid
 import time
 import os
 import os.path as osp
@@ -10,8 +11,8 @@ import shutil
 from download_image import download_image, is_same_image
 from get_images_urls import get_image_urls
 
-NAMES_PATH = "/Users/ofirelias/Downloads/Celebrity Faces Dataset"
-DEST_PATH = "/Users/ofirelias/Downloads/Masked Celebrities"
+NAMES_PATH = "mask_detection_from_kaggle/input/celebrity-face-image-dataset"
+DEST_PATH = "mask_detection_from_kaggle/output/masked-celebs"
 
 def list_folders_in_path(path):
     folders = [folder for folder in os.listdir(path) if os.path.isdir(os.path.join(path, folder))]
