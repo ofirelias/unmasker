@@ -1,6 +1,5 @@
 import os
 import uuid
-from bs4 import BeautifulSoup
 import time
 import os
 import os.path as osp
@@ -10,8 +9,8 @@ import datetime
 
 from get_images_urls import get_image_urls
 
-NAMES_PATH = "/Users/ofirelias/Downloads/Celebrity Faces Dataset"
-DEST_PATH = "/Users/ofirelias/Downloads/Masked Celebrities"
+NAMES_PATH = "mask_detection_from_kaggle/input/celebrity-face-image-dataset"
+DEST_PATH = "mask_detection_from_kaggle/output/masked-celebs"
 
 def list_folders_in_path(path):
     folders = [folder for folder in os.listdir(path) if os.path.isdir(os.path.join(path, folder))]
